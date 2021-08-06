@@ -5,12 +5,12 @@ according to the sorting criteria.
 
 
 # Compilation
-To comile the program:
+To compile the program:
 (in command line - you must be in the same directory as the program files)
 
-...
+```
 > g++ main.cpp Country.cpp -o CountryRecords
-...
+```
 
 # Usage
 Note: The CSV file to be passed into the program must be in the same directory as the program files.
@@ -19,8 +19,8 @@ Note: The CSV file to be passed into the program must be in the same directory a
 To run the program:
 (in command line - you must be in the same directory as the program files)
 
-...
+```
 > ./CountryRecords
-...
+```
 
 Follow the directions on screen.
