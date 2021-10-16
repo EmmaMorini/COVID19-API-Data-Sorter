@@ -6,7 +6,6 @@ according to the sorting criteria.
 
 # Compilation
 To compile the program:
-(in command line - you must be in the same directory as the program files)
 
 ```
 > g++ main.cpp Country.cpp -o CountryRecords
@@ -17,7 +16,6 @@ Note: The CSV file to be passed into the program must be in the same directory a
       Then enter file name (including the .csv extension) when prompted.
 
 To run the program:
-(in command line - you must be in the same directory as the program files)
 
 ```
 > ./CountryRecords
